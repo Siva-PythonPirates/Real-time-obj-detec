@@ -7,7 +7,7 @@ Here, we will go through the steps required for setting up the project and some 
 
 **Hi!**
 
-![alt text](https://github.com/Surya-Murali/Real-Time-Object-Detection-With-OpenCV/blob/master/real_time_output_gif/real_time_output.gif)
+![alt text](https://github.com/Siva-PythonPirates/Real-time-obj-detec)
 
 ### How to run this code?
 
