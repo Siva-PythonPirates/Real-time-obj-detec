@@ -21,8 +21,7 @@ cd ~/Desktop/opencv_project
 **Step 2:** Clone the repository and cd into the folder:
 
 ```
-git clone https://github.com/Surya-Murali/Real-Time-Object-Detection-With-OpenCV.git
-cd Real-Time-Object-Detection-With-OpenCV
+git clone https://github.com/Siva-PythonPirates/Real-time-obj-detec
 ```
 **Step 3:** Install all the necessary libraries. I used MacOS for this project. These are some of the libraries I had to install:
 
